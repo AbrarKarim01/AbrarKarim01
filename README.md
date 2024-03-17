@@ -43,6 +43,3 @@
   </picture>
 </div>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrarkarim01&theme=dark)](https://github.com/AbrarKarim01/github-readme-streak-stats)
-
