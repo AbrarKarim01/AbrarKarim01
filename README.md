@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abrar Karim</h1>
-<h3 align="center">An enthusiastic software developer from Bangladesh</h3>
-<img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
+<h3 align="center">An enthusiastic Software Developer from Bangladesh</h3>
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkarim01&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkarim01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrarkarim01" alt="abrarkarim01" /></a> </p>
+<img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
 
 - 👨‍💻 Check out my personal website [https://abrarkarim01.github.io/AbrarKarim.github.io/](https://abrarkarim01.github.io/AbrarKarim.github.io/)
 
@@ -15,6 +16,7 @@
 - 📫 How to reach me **md.karimabrar@gmail.com**
 
 - ⚡ Fun fact **🎇AbraCaDabra🎇**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
