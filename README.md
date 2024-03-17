@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Karim</h1>
-<h3 align="center">An enthusiastic software developer from Bangladesh</h3>
-![GitHubProfile](https://github.com/AbrarKarim01/AbrarKarim01/assets/76803325/be9ee424-bfa7-4d1b-98f8-79ecb23e02a7)
+<h3 align="center">An enthusiastic Software Developer from Bangladesh</h3>
 
+![GitHubProfile](https://github.com/AbrarKarim01/AbrarKarim01/assets/76803325/c96b3827-b1c0-450d-9a87-0bfd6d3d3b6f)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkarim01&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkarim01" /> </p>
