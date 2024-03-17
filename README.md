@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrar Karim</h1>
 <h3 align="center">An enthusiastic Software Developer from Bangladesh</h3>
-<img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hello there 👋🏻  I am Abrar Karim  ;Software Developer+%7C+Programmer+%7C+Technology+Enthusiast;Java+%7C+Python+%7C+Django+%7C+Machine + Learning" alt="Typing SVG" />
+<img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
 
 - 👨‍💻 Check out my personal website [https://abrarkarim01.github.io/AbrarKarim.github.io/](https://abrarkarim01.github.io/AbrarKarim.github.io/)
 
