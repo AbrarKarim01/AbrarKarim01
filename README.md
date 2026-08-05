@@ -6,8 +6,7 @@
 
 - 👨‍💻 Check out my LinkedIn [(https://www.linkedin.com/in/karim-abrar/)]
 - 💬 Ask me about **Data Science, Machine Learning, and QA Automation**
-- 📫 How to reach me **md.karimabrar@gmail.com**
-- ⚡ Fun fact **🎇AbraCaDabra🎇**
+- 📫 How to reach me **mkarim15@lakeheadu.ca**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkarim01&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkarim01" /> </p>
 
