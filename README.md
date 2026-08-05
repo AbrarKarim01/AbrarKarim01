@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abrar Karim</h1>
-<h3 align="center">An enthusiastic Software Developer from Canada</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB+I+am+Abrar+Karim;Software+Developer+%7C+Programmer+%7C+Tech+Enthusiast;Java+%7C+Python+%7C+Django+%7C+Machine+Learning" alt="Typing SVG" />
 
 <img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
 
 - 👨‍💻 Check out my LinkedIn [(https://www.linkedin.com/in/karim-abrar/)]
-- 💬 Ask me about **Python, Django, Java, Kotlin, Mobile Application Development, Machine Learning, and QA Automation**
+- 💬 Ask me about **Data Science, Machine Learning, and QA Automation**
 - 📫 How to reach me **md.karimabrar@gmail.com**
 - ⚡ Fun fact **🎇AbraCaDabra🎇**
 
