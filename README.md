@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
 
-- 👨‍💻 Check out my personal website [https://abrarkarim01.github.io/AbrarKarim.github.io/](https://abrarkarim01.github.io/AbrarKarim.github.io/)
+- 👨‍💻 Check out my LinkedIn [- 👨‍💻 Check out my LinkedIn [(https://www.linkedin.com/in/karim-abrar/)]
 - 💬 Ask me about **Python, Django, Java, Kotlin, Mobile Application Development, Machine Learning, and QA Automation**
 - 📫 How to reach me **md.karimabrar@gmail.com**
 - ⚡ Fun fact **🎇AbraCaDabra🎇**
