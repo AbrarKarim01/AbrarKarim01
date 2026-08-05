@@ -8,7 +8,8 @@
 
 <p align="left"><img src="https://img.shields.io/badge/-Intriguing%20Solutions%20to%20Watch-0e75b6?style=flat-square" alt="Intriguing Solutions to Watch"/></p>
 
-<p align="left">Have you gone down a Reddit rabbit hole trying to figure out the PR process as an international, only to end up buried in hundreds of scattered comments, half-answers, and conflicting timelines? That's exactly the kind of noise this tool cuts through. I built a way to make sense of large-scale discussions on r/Canada — surfacing spikes in topics like housing, immigration, and healthcare, then using AI to generate readable summaries with themes and viewpoints instead of making you scroll through thousands of raw comments yourself. <a href="https://github.com/AbrarKarim01/CanadaNarrative_TimelineTracker">View repo</a></p>
+<p align="left"><a href="https://github.com/AbrarKarim01/CanadaNarrative_TimelineTracker"><b>r/Canada Narrative Timeline Tracker</b></a></p>
+<p align="left"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="18" height="18"/> Have you ever visited the Reddit website trying to research about the PR process as an international? Found yourself buried in hundreds of scattered comments, half-answers, and conflicting timelines? What if there's a tool that cuts through? I built a AI tool that takes large-scale discussions on r/Canada and gives trends based in topics like housing, immigration, and healthcare, then using AI to generate readable summaries with themes and viewpoints instead of making you scroll through thousands of raw comments yourself.</p>
 
 
 
