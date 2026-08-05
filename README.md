@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abrar Karim</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB+I+am+Abrar+Karim;Software+Developer+%7C+Programmer+%7C+Tech+Enthusiast;Java+%7C+Python+%7C+Django+%7C+Machine+Learning" alt="Typing SVG" />
+<p align="center"><img src="https://img.shields.io/badge/-Aspiring%20Machine%20Learning%20Engineer%20%7C%20QA%20Automation%20Professional%20%7C%20Tech%20Enthusiast-0e75b6?style=for-the-badge" alt="Aspiring Machine Learning Engineer | QA Automation Professional | Tech Enthusiast"/></p>
 
 <img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
 
-- 👨‍💻 Check out my LinkedIn [(https://www.linkedin.com/in/karim-abrar/)]
+<p align="left">I enjoy building machine learning solutions, breaking pipelines and testing software to make sure they work the way they're supposed to. I'm looking for opportunities to learn, grow and take on new challenges in Data Science and QA.</p>
+
+<p align="left">👨‍💻 Check out my <a href="https://www.linkedin.com/in/karim-abrar/">LinkedIn</a></p>
 - 💬 Ask me about **Data Science, Machine Learning, and QA Automation**
 - 📫 How to reach me **mkarim15@lakeheadu.ca**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkarim01&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkarim01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrarkarim01&theme=darkhub" alt="abrarkarim01" /></a> </p>
+<p align="left">📂 <a href="https://github.com/AbrarKarim01?tab=repositories">My repositories</a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
