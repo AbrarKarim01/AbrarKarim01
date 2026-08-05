@@ -6,7 +6,9 @@
 
 <p align="left">I enjoy building machine learning solutions, breaking pipelines and testing software to make sure they work the way they're supposed to. I'm looking for opportunities to learn, grow and take on new challenges in Data Science and QA.</p>
 
-<p align="left">💬 Ask me about <b>Data Science, Machine Learning, and QA Automation</b></p>
+<p align="left"><img src="https://img.shields.io/badge/-Intriguing%20Solutions%20to%20Watch-0e75b6?style=flat-square" alt="Intriguing Solutions to Watch"/></p>
+
+<p align="left">Have you gone down a Reddit rabbit hole trying to figure out the PR process as an international, only to end up buried in hundreds of scattered comments, half-answers, and conflicting timelines? That's exactly the kind of noise this tool cuts through. I built a way to make sense of large-scale discussions on r/Canada — surfacing spikes in topics like housing, immigration, and healthcare, then using AI to generate readable summaries with themes and viewpoints instead of making you scroll through thousands of raw comments yourself. <a href="https://github.com/AbrarKarim01/CanadaNarrative_TimelineTracker">View repo</a></p>
 
 
 
