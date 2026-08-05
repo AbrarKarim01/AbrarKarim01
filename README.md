@@ -6,15 +6,14 @@
 
 <p align="left">I enjoy building machine learning solutions, breaking pipelines and testing software to make sure they work the way they're supposed to. I'm looking for opportunities to learn, grow and take on new challenges in Data Science and QA.</p>
 
-<p align="left">👨‍💻 Check out my <a href="https://www.linkedin.com/in/karim-abrar/">LinkedIn</a></p>
 <p align="left">💬 Ask me about <b>Data Science, Machine Learning, and QA Automation</b></p>
-<p align="left">📫 Reach me at <b>mkarim15@lakeheadu.ca</b></p>
-<p align="left">📂 <a href="https://github.com/AbrarKarim01?tab=repositories">My repositories</a></p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkarim01&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkarim01" /> </p>
 
-
-
+<p align="left">📂 <a href="https://github.com/AbrarKarim01?tab=repositories">My repositories</a></p>
+<p align="left">📫 Reach me at <b>mkarim15@lakeheadu.ca</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
