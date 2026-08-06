@@ -6,6 +6,8 @@
 
 <p align="left"><img src="https://img.shields.io/badge/-Aspiring%20Machine%20Learning%20Engineer%20%7C%20QA%20Automation%20Professional%20%7C%20Tech%20Enthusiast-0e75b6?style=for-the-badge" alt="Aspiring Machine Learning Engineer | QA Automation Professional | Tech Enthusiast"/></p>
 
+<p align="justify">I enjoy building machine learning solutions, breaking pipelines and testing software to make sure they work the way they're supposed to. I'm looking for opportunities to learn, grow and take on new challenges in Data Science and QA.</p>
+
 </td>
 <td>
 
@@ -14,8 +16,6 @@
 </td>
 </tr>
 </table>
-
-<p align="left">I enjoy building machine learning solutions, breaking pipelines and testing software to make sure they work the way they're supposed to. I'm looking for opportunities to learn, grow and take on new challenges in Data Science and QA.</p>
 
 <p align="left"><img src="https://img.shields.io/badge/-Intriguing%20Solutions%20to%20Watch-0e75b6?style=flat-square" alt="Intriguing Solutions to Watch"/></p>
 
