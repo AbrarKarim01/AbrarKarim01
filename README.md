@@ -3,7 +3,7 @@
 <tr>
 <td width="600">
 
-<p align="left"><img src="https://img.shields.io/badge/-Aspiring%20Machine%20Learning%20Engineer%20%7C%20QA%20Automation%20Professional%20%7C%20Tech%20Enthusiast-0e75b6?style=for-the-badge" alt="Aspiring Machine Learning Engineer | QA Automation Professional | Tech Enthusiast"/></p>
+<p align="left"><img src="https://img.shields.io/badge/-Aspiring%20Machine%20Learning%20Engineer%20%7C%20Researcher%20%7C%20QA%20Automation%20Professional%20%7C%20Tech%20Enthusiast-0e75b6?style=for-the-badge" alt="Aspiring Machine Learning Engineer | Researcher | QA Automation Professional | Tech Enthusiast"/></p>
 
 <p align="justify">I enjoy building machine learning solutions, breaking pipelines and testing software to make sure they work the way they're supposed to. I'm looking for opportunities to learn, grow and take on new challenges in Data Science and QA.</p>
 
