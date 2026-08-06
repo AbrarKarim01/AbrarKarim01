@@ -66,13 +66,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkarim01&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkarim01" /> </p>
 
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=AbrarKarim01&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AbrarKarim01&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000" width="47%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AbrarKarim01&theme=default&hide_border=true" width="50%">
-    <img src="https://streak-stats.demolab.com?user=AbrarKarim01&theme=blueberry&hide_border=true&background=00000000" width="50%" />
-  </picture>
-</div>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=AbrarKarim01&theme=blueberry&hide_border=true&background=00000000" width="50%" />
