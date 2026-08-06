@@ -50,12 +50,12 @@
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/> </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkarim01&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkarim01" /> </p>
+
 
 - 🤖 **Machine Learning:** Python, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Jupyter
 - 🧪 **QA Automation:** Selenium, Postman, Cypress, PyTest, JUnit
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarKarim01&layout=compact&theme=dark)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkarim01&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkarim01" /> </p>
 
 <div align="center">
   <picture>
