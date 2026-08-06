@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abrar Karim</h1>
 
-<p align="center"><img src="https://img.shields.io/badge/-Aspiring%20Machine%20Learning%20Engineer%20%7C%20QA%20Automation%20Professional%20%7C%20Tech%20Enthusiast-0e75b6?style=for-the-badge" alt="Aspiring Machine Learning Engineer | QA Automation Professional | Tech Enthusiast"/></p>
-
 <img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
+
+<p align="left"><img src="https://img.shields.io/badge/-Aspiring%20Machine%20Learning%20Engineer%20%7C%20QA%20Automation%20Professional%20%7C%20Tech%20Enthusiast-0e75b6?style=for-the-badge" alt="Aspiring Machine Learning Engineer | QA Automation Professional | Tech Enthusiast"/></p>
 
 <p align="left">I enjoy building machine learning solutions, breaking pipelines and testing software to make sure they work the way they're supposed to. I'm looking for opportunities to learn, grow and take on new challenges in Data Science and QA.</p>
 
