@@ -18,7 +18,7 @@
 
 <p align="left"><img src="https://img.shields.io/badge/-Intriguing%20Solutions%20to%20Watch-0e75b6?style=flat-square" alt="Intriguing Solutions to Watch"/></p>
 
-<p align="left"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="18" height="18"/> <a href="https://github.com/AbrarKarim01/CanadaNarrative_TimelineTracker"><b>r/Canada Narrative Timeline Tracker</b></a></p>
+<p align="left"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="18" height="18"/> <a href="https://github.com/AbrarKarim01/CanadaNarrative_TimelineTracker"><b>r/Canada Narrative Timeline Tracker</b></a> · <a href="https://canadanarrativetimelinetracker-g5qtctrhwa8dgni5qnxjd4.streamlit.app/"><b>Live Demo</b></a></p>
 <p align="left">Have you ever visited the Reddit website trying to research the PR process as an international? Found yourself buried in hundreds of scattered comments, half-answers, and conflicting timelines? What if there's a tool that cuts through all that? I built an AI tool that takes large-scale discussions on r/Canada and gives answers based in topics like housing, immigration, and healthcare, generating readable summaries with themes and viewpoints instead of making you scroll through thousands of raw comments. It also comes with a chatBot to directly conversate! You get answers using only the comments from the topic and time window you're exploring.</p>
 
 <p align="left"><img src="https://cdn.simpleicons.org/selenium/43B02A" width="18" height="18"/> <a href="https://github.com/AbrarKarim01/modus-website-tests"><b>Modus Website Test Suite</b></a></p>
